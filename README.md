@@ -12,4 +12,5 @@
   - Google fonts;
 
 # Implemented features:
+  - responsive layout;
   - slider with JS.
